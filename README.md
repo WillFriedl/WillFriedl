@@ -31,3 +31,7 @@
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/WillFriedl/WillFriedl/blob/output/snake.svg" alt="Snake animation" />
+
+  ! [Snake animation]
+(https://gitbub.com/WillFriedl/WillFriedl/blob/output/github-contribution-grid-snake.svg)
+</div>
