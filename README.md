@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Willl/Willl/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/WillFriedl/WillFriedl/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
