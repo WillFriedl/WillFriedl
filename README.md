@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋 Meu nome é William Friedl.<br><br>Sou de Porto Alegre e atualmente trabalho como Auxiliar de escritório e logística e estou na turma Explorer 5.0 da Rocketseat.</h2>
+<h2 align="left">Olá👋 Meu nome é William Friedl.<br><br>Sou de Porto Alegre e atualmente trabalho como Auxiliar financeiro e estou na turma Explorer 5.0 da Rocketseat.</h2>
 
 ###
 
