@@ -12,7 +12,7 @@
  
  🔭 **I’m currently student**
  
- 🌱 I’m currently learning **React, NodeJS**
+ 🌱 I’m currently learning **React, NodeJS, Git, JavaScript**
  
  </div>
  
@@ -33,17 +33,16 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript," /><br>
-    <img src="https://skillicons.dev/icons?i=react,mysql,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,vscode"/><br>
+    <img src="https://skillicons.dev/icons?i=react,mysql,html,css,figma,git"/>
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/willfriedl/willfriedl/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillFriedl&bg_color=000000&color=00bfff&line=00bfff&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
   
   <br/><br/><br/>
 </div>
@@ -52,11 +51,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=WillFriedl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-WillFriedl.vercel.app/api?username=WillFriedl&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-WillFriedl.vercel.app/api/top-langs/?username=WillFriedl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WillFriedl&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="William Friedl github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillFriedl&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117" />
 </div>
 
 <br/><br/>
